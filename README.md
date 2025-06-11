@@ -16,6 +16,6 @@ You can see who holds influence (not just leaders, but people who connect key pa
 ## 🧰 Tools Used
 
 - `NetworkX` for graph building and analysis
-- **Matplotlib & Plotly** for static and interactive visualization
+- Plotly` and `Matplotlib` for static and interactive visualization
 - `Pandas` for handling the data
 
