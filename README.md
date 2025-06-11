@@ -19,3 +19,16 @@ You can see who holds influence (not just leaders, but people who connect key pa
 - `Plotly` and `Matplotlib` for static and interactive visualization
 - `Pandas` for handling the data
 
+## 📂 What's Included
+
+- `main.py` — shows the full network graph with influence scores
+- `option_b_plotly.py` — interactive graph (you can hover and explore)
+- `option_c_animated.py` — animates network growth over time
+- `option_d_filter_by_role.py` — lets you filter network by type of connection
+- `cartel_network_timeline.csv` — the dataset used
+
+## 💡 Inspiration
+
+This project builds on real-world patterns in criminal networks, with the goal of developing analysis tools relevant to intelligence and security fields.
+
+
