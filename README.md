@@ -33,5 +33,5 @@ I’ve always been curious about how criminal networks actually work — not jus
 
 I used Python, NetworkX, Plotly, and real-world cartel data to build visualizations of groups like CJNG, Sinaloa, La Familia Michoacana, and others. The graphs show who’s connected to who, how strong those ties are, and how power moves through the network whether through alliances, leadership, or even conflict.
 
-Even though these groups aren’t always centralized, it becomes pretty clear that a few key players control a lot behind the scenes. Mapping that out helped me see how useful this kind of analysis could be — especially for people working in public safety or intelligence. It's the kind of thing I could actually see myself doing one day.
+Even though these groups aren’t always centralized, it becomes pretty clear that a few key players control a lot behind the scenes. Mapping that out helped me see how useful this kind of analysis could be, especially for people working in public safety or intelligence. It’s the kind of work I could see myself doing in the future: using data to make sense of messy, complicated problems. And if that helps make things a little safer or more understandable for others, then that’s a path I’d be proud to follow.
 
