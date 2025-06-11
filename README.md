@@ -3,7 +3,7 @@ This project visualizes and analyzes connections within cartel structures using 
 
 The network includes groups like CJNG, Sinaloa Cartel, Gulf Cartel, and Los Zetas, with nodes and edges that represent how power and operations flow between figures in places like Jalisco, Tepalcatepec, and Tijuana.
 
-You can see who holds influence (not just leaders, but people who connect key parts of the network), how alliances shift, or how subgroups branch off. There’s even an animation that shows how the network evolves over time — plus a filter option to focus on just leaders, conflicts, or other roles. It’s designed to be informative for analysts, but still easy to understand even if you don’t code.
+You can see who holds influence (not just leaders, but people who connect key parts of the network), how alliances shift, or how subgroups branch off. There’s even an animation that shows how the network evolves over time,  plus a filter option to focus on just leaders, conflicts, or other roles. It’s designed to be informative for analysts, but still easy to understand even if you don’t code.
 
 
 ## 👀 What You Can Do
@@ -29,7 +29,7 @@ You can see who holds influence (not just leaders, but people who connect key pa
 
 ## 💡 Inspiration
 
-I’ve always been curious about how criminal networks actually work — not just what they do, but how they’re structured behind the scenes. This project came from that curiosity, shaped a bit by what I’ve grown up around and what I might want to do in the future.
+I’ve always been curious about how criminal networks actually work, not just what they do, but how they’re structured behind the scenes. This project came from that curiosity, shaped a bit by what I’ve grown up around and what I might want to do in the future.
 
 I used Python, NetworkX, Plotly, and real-world cartel data to build visualizations of groups like CJNG, Sinaloa, La Familia Michoacana, and others. The graphs show who’s connected to who, how strong those ties are, and how power moves through the network whether through alliances, leadership, or even conflict.
 
