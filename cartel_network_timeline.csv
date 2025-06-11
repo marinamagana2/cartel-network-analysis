@@ -1,0 +1,26 @@
+source,target,weight,type,year
+CJNG,El Mencho,10,leader,2010
+El Mencho,Los Cuinis,9,alliance,2011
+Los Cuinis,El 85,8,alliance,2012
+CJNG,El 85,8,alliance,2012
+CJNG,Guadalajara Cell,9,subcell,2013
+Guadalajara Cell,Operator A,5,command,2013
+Guadalajara Cell,Operator B,5,command,2013
+CJNG,Tepalcatepec Cell,7,subcell,2014
+Tepalcatepec Cell,Operator C,4,command,2014
+CJNG,Gulf Cartel,6,alliance,2015
+Gulf Cartel,Operator D,3,command,2015
+Gulf Cartel,Los Metros,5,subcell,2016
+Los Metros,Operator E,4,command,2016
+CJNG,Sinaloa Cartel,2,conflict,2016
+Sinaloa Cartel,El Mayo,6,leader,2017
+Sinaloa Cartel,Los Chapitos,6,leader,2017
+CJNG,La Familia Michoacana,7,alliance,2018
+La Familia Michoacana,Commander Zeta,8,leader,2018
+Sinaloa Cartel,Los Antrax,6,subcell,2019
+El Mayo,Accountant A,5,command,2019
+Accountant A,Money Mule 1,4,command,2019
+CJNG,Plaza Boss Tijuana,6,subcell,2020
+Plaza Boss Tijuana,Operator F,3,command,2020
+Beltrán Leyva,Zetas,6,alliance,2020
+Zetas,Gun Supplier,5,bribe,2021
