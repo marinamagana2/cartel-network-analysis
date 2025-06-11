@@ -29,6 +29,9 @@ You can see who holds influence (not just leaders, but people who connect key pa
 
 ## 💡 Inspiration
 
-This project builds on real-world patterns in criminal networks, with the goal of developing analysis tools relevant to intelligence and security fields.
+I’ve always been curious about how criminal networks actually work — not just what they do, but how they’re structured behind the scenes. This project came from that curiosity, shaped a bit by what I’ve grown up around and what I might want to do in the future.
 
+I used Python, NetworkX, Plotly, and real-world cartel data to build visualizations of groups like CJNG, Sinaloa, La Familia Michoacana, and others. The graphs show who’s connected to who, how strong those ties are, and how power moves through the network whether through alliances, leadership, or even conflict.
+
+Even though these groups aren’t always centralized, it becomes pretty clear that a few key players control a lot behind the scenes. Mapping that out helped me see how useful this kind of analysis could be — especially for people working in public safety or intelligence. It's the kind of thing I could actually see myself doing one day.
 
