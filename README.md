@@ -5,3 +5,17 @@ The network includes groups like CJNG, Sinaloa Cartel, Gulf Cartel, and Los Zeta
 
 You can see who holds influence (not just leaders, but people who connect key parts of the network), how alliances shift, or how subgroups branch off. There’s even an animation that shows how the network evolves over time — plus a filter option to focus on just leaders, conflicts, or other roles. It’s designed to be informative for analysts, but still easy to understand even if you don’t code.
 
+
+## 👀 What You Can Do
+
+- **See the full network** at once (static view)
+- **Explore interactively** by hovering over nodes (Plotly version)
+- **Watch it grow over time** with a timeline animation
+- **Filter by role** — like just seeing leaders or conflict ties
+
+## 🧰 Tools Used
+
+- `NetworkX` for graph building and analysis
+- **Matplotlib & Plotly** for static and interactive visualization
+- `Pandas` for handling the data
+
